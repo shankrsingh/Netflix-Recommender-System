@@ -1,6 +1,7 @@
 # Netflix-Recommender-System
 ## Built a Movie Recommender System Using Collaborative Filtering
 **Dataset consists of Ratings given by a user to movies**
+<br>
 I used various techniques to infer the similarity between users and movies
  - We built user-user similarity matrix
  - We built movie-movie similarity matrix
